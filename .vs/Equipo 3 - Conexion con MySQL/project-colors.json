@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6d3b15c-6bc4-41fc-8edc-456576d690ba": {
+      "ProjectGuid": "a6d3b15c-6bc4-41fc-8edc-456576d690ba",
+      "DisplayName": "Conexion con MySQL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

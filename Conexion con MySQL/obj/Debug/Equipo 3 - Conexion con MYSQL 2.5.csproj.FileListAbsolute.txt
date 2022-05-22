@@ -1,0 +1,120 @@
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe.config
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\Conexion con MySQL.pdb
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\ZstdNet.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\System.Memory.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\System.Buffers.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.AssemblyReference.cache
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe.config
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Conexion_Con_MySQL.FormProductos.resources
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Conexion_con_MySQL.Properties.Resources.resources
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.GenerateResource.cache
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CoreCompileInputs.cache
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CopyComplete
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe
+C:\Users\Arnaldo\Documents\vs-progra-2\Equipo 3 - Conexion con MYSQL 1.5\Conexion con MySQL\obj\Debug\Conexion con MySQL.pdb
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe.config
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\Conexion con MySQL.pdb
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\ZstdNet.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\System.Memory.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe.config
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Conexion_Con_MySQL.FormProductos.resources
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Conexion_con_MySQL.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.5\Conexion con MySQL\obj\Debug\Conexion con MySQL.pdb
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe.config
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\Conexion con MySQL.pdb
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\ZstdNet.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\System.Memory.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe.config
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Conexion_Con_MySQL.FormProductos.resources
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Conexion_con_MySQL.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.6\Conexion con MySQL\obj\Debug\Conexion con MySQL.pdb
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe.config
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\Conexion con MySQL.pdb
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\ZstdNet.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\System.Memory.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe.config
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Conexion_Con_MySQL.FormProductos.resources
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Conexion_con_MySQL.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL 2.7\Conexion con MySQL\obj\Debug\Conexion con MySQL.pdb
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe.config
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\Conexion con MySQL.exe
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\Conexion con MySQL.pdb
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\ZstdNet.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\System.Memory.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe.config
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Conexion_Con_MySQL.FormProductos.resources
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Conexion_con_MySQL.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Equipo 3 - Conexion con MYSQL 2.5.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Conexion con MySQL.exe
+C:\Users\Administrador\source\repos\Equipo 3 - Conexion con MYSQL\Conexion con MySQL\obj\Debug\Conexion con MySQL.pdb
